@@ -17,7 +17,7 @@ header {
 }
  
 .logo img {
-    max-width: 200px; /* Tamaño máximo del logo ajustado */
+    max-width: 120px; /* Tamaño máximo del logo ajustado */
 }
  
 nav ul {
