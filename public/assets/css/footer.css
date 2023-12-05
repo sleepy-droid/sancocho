@@ -20,8 +20,21 @@ footer p:last-child {
     margin-top: 1rem; /* Ajustar el espacio entre el último párrafo y el mensaje de derechos de autor */
 }
 
+/* Estilos específicos para la estructura del footer */
 .site-footer {
     display: flex;
-    justify-content: center;
-    margin: 0 auto;
-  }
+    justify-content: space-between; /* Distribuye las secciones horizontalmente */
+    max-width: 1200px; /* Ancho máximo para el footer */
+    margin: 0 auto; /* Centra el footer en la página */
+    flex-wrap: wrap; /* Envuelve las secciones si no caben en el ancho */
+}
+
+.site-footer .footer-section {
+    flex: 1; /* Ocupa el espacio disponible */
+    max-width: 33%; /* Ancho máximo de cada sección */
+}
+
+.site-footer .footer-bottom {
+    width: 100%; /* Ocupa todo el ancho disponible */
+    text-align: center; /* Centra el contenido */
+}
