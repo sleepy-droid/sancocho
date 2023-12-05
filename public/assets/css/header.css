@@ -7,7 +7,7 @@ body {
 }
  
 header {
-    background-color: #6c7a8e; /* Nuevo color de fondo del encabezado (azul más grisáceo pálido) */
+    background-color: #1d2a3d; /* Nuevo color de fondo del encabezado (azul más grisáceo pálido) */
     padding: 1rem; /* Añade un relleno al encabezado */
     color: #ffffff; /* Color del texto del encabezado */
     display: flex;

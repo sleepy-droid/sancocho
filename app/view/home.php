@@ -27,8 +27,8 @@
 
     <!-- Aquí podrías incluir un footer si tienes uno -->
     <?php 
-    //include_once $_SERVER['DOCUMENT_ROOT'] . '/sancocho/app/view/layouts/footer.php'; 
-    include_once 'layouts/footer.php';
+    include_once $_SERVER['DOCUMENT_ROOT'] . '/sancocho/app/view/layouts/footer.php'; 
+    //include_once 'layouts/footer.php';
     ?>
 </body>
 
