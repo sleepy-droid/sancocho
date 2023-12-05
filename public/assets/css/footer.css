@@ -1,0 +1,20 @@
+/* Estilos para el pie de página */
+footer {
+    background-color: #343a40; /* Color de fondo del pie de página */
+    color: #ffffff; /* Color del texto en el pie de página */
+}
+
+/* Estilos para los enlaces en el pie de página */
+footer a {
+    color: #ffffff; /* Color de los enlaces en el pie de página */
+}
+
+/* Estilos para el área de información de contacto en el pie de página */
+footer p {
+    margin-bottom: 0.5rem; /* Ajustar el espacio entre los párrafos de información de contacto */
+}
+
+/* Estilos para el mensaje de derechos de autor en el pie de página */
+footer p:last-child {
+    margin-top: 1rem; /* Ajustar el espacio entre el último párrafo y el mensaje de derechos de autor */
+}
