@@ -1,6 +1,6 @@
 <head>
     <!-- Aquí irían los metadatos, título y enlaces a hojas de estilo -->
-    <link rel="stylesheet" href="sancocho/public/css/footer.css">
+    <link rel="stylesheet" href="/sancocho/public/assets/css/footer.css">
 </head>
 
 <footer>
