@@ -18,3 +18,9 @@ footer p {
 footer p:last-child {
     margin-top: 1rem; /* Ajustar el espacio entre el último párrafo y el mensaje de derechos de autor */
 }
+
+.site-footer {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+  }
