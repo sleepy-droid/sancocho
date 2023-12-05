@@ -1,5 +1,6 @@
 <?php
 // Incluir el header.php que contiene la barra de navegación y el saludo al usuario
+    include_once 'layouts/header.php'
 
 ?>
 <!DOCTYPE html>
@@ -14,9 +15,7 @@
 
 <body>
     <header>
-        <?php
-        include_once 'layouts/header.php'
-            ?>
+        
     </header>
     <div id="content">
         <!-- Contenido principal de tu página de inicio -->
