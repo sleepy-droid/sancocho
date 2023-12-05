@@ -23,16 +23,10 @@ footer p:last-child {
 /* Estilos específicos para la estructura del footer */
 .site-footer {
     display: flex;
-    justify-content: space-between; /* Distribuye las secciones horizontalmente */
-    max-width: 1200px; /* Ancho máximo para el footer */
-    margin: 0 auto; /* Centra el footer en la página */
+    justify-content: space-between;
+    margin: 0 auto;
     flex-wrap: wrap; /* Envuelve las secciones si no caben en el ancho */
-}
-
-.site-footer .footer-section {
-    flex: 1; /* Ocupa el espacio disponible */
-    max-width: 33%; /* Ancho máximo de cada sección */
-}
+  }
 
 .site-footer .footer-bottom {
     width: 100%; /* Ocupa todo el ancho disponible */
