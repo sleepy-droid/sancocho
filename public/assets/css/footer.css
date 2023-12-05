@@ -2,6 +2,7 @@
 footer {
     background-color: #343a40; /* Color de fondo del pie de página */
     color: #ffffff; /* Color del texto en el pie de página */
+    font-family: Arial, sans-serif; /* Cambia la fuente a Arial, sans-serif*/
 }
 
 /* Estilos para los enlaces en el pie de página */
